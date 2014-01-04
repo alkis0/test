@@ -4,7 +4,11 @@ package GAproject;
 import javax.swing.JOptionPane;
 
 
-
+/***
+ *	Changes .....  
+ * 
+ * 
+ */
 
 public class Chromosome {
 	String Binary_Form="";//binary
